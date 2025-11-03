@@ -1,2 +1,4 @@
 # NN-project1
-Multi-Layer Perceptro Project
+Multi-Layer Perceptron Project
+
+Pauls Daugulis & Vsevolod Salik
