@@ -1,7 +1,3 @@
-# NN-project1
-Multi-Layer Perceptron Project
-
-[readme.md](https://github.com/user-attachments/files/24919869/readme.md)
 \# Housing Price Prediction - Configurable MLP Experiments
 
 
